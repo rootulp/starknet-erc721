@@ -67,7 +67,7 @@ Do you have a question? Join our [Discord server](https://discord.gg/B7PevJGCCw)
 
 ### Before you start
 
-The TD has three components:
+The tutorial has three components:
 
 - An [ERC20 token](contracts/token/ERC20/TDERC20.cairo), ticker ERC721-101, that is used to keep track of points
 - An [evaluator contract](contracts/Evaluator.cairo), that is able to mint and distribute ERC721-101 points
